@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//Teste
 void bubble_sort(int vet[], int size){
     int proximo = 0;
 
