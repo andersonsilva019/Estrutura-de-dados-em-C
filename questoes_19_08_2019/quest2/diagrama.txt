@@ -1,0 +1,8 @@
+
+Ponto.h --> reta.h ->> reta.c -->> --> q2.c 
+
+reta.h inclue de pontoh
+
+reta.c inclue de reta.h
+
+q2.c inclue de reta.c
